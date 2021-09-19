@@ -406,3 +406,55 @@ C:\WorkFiles\06 代码集合\PrDispalce\PrDispalce\obj\x86\Debug\PrDispalce.建�
 C:\WorkFiles\06 代码集合\PrDispalce\PrDispalce\obj\x86\Debug\PrDispalce.模式识别.LinearPattern.resources
 C:\WorkFiles\06 代码集合\PrDispalce\PrDispalce\obj\x86\Debug\PrDispalce.csproj.GenerateResource.Cache
 C:\WorkFiles\06 代码集合\PrDispalce\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.CenterGet.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.csproj.ResolveComReference.cache
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.exe
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.pdb
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\bin\Debug\PrDispalce.exe
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\bin\Debug\PrDispalce.pdb
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\bin\Debug\AuxStructureLib.dll
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\bin\Debug\AuxStructureLib.pdb
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.csprojResolveAssemblyReference.cache
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.BuildingSim.BuildingSimFrm.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.FlowMap.FlowMap.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.Form1.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.PatternRecognition.PRForm.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.Properties.Resources.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.典型化.ArbitrarilyMesh.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.典型化.GroupMesh.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.协同移位_整体_.CollaborativeDisplacement.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.协同移位_整体_.ForceComputation.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.协同移位_整体_.ProximityBuilder.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.协同移位_整体_.ProximityGraphBuilder.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.协同移位_整体_.StepCollabrativeDisplacement.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.协同移位_整体_.WholeCollaborativeDisplacement.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.CenterGet.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.ConflictDetect.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.ConflictDetect2.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.FeiBuildingDisplaceForm.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.MeshSimplify.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.MSTCreate.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.MSTtoPP.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.pDisplace.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.pDisplaceTraditional.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.PolygonAggregation.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.ProximityCreate.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.ProximityDetect.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.工具窗体.VGraphfrm.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.建筑物群空间特征分析小工具.BuildingFeatureComputation.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.建筑物群空间特征分析小工具.BuildingGet.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.建筑物群空间特征分析小工具.GeneralizationOperatorInfer.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.建筑物聚合.ProgressiveAggregation.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.模式识别.LinearPattern.resources
+C:\WorkFiles\06 代码集合\PrDispalce - 副本\PrDispalce\obj\x86\Debug\PrDispalce.csproj.GenerateResource.Cache
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.csproj.ResolveComReference.cache
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.exe
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.pdb
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.csprojResolveAssemblyReference.cache
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.Form1.resources
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.Properties.Resources.resources
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.csproj.GenerateResource.Cache
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\bin\Debug\PrDispalce.exe
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\bin\Debug\PrDispalce.pdb
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\bin\Debug\AuxStructureLib.dll
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\bin\Debug\AuxStructureLib.pdb
+C:\WorkFiles\06 代码集合\BuildingSim\PrDispalce\obj\x86\Debug\PrDispalce.建筑物聚合.BuildingSim.resources
